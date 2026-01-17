@@ -124,7 +124,17 @@ You can find a sample invoice to test in:
 
 sample-data/invoice_sample.pdf
 
+
+---
+
 ## 📬 Contact
-Created by @Zadahmad — feel free to reach out for collaboration or feedback!
-``` 
+
+Developed by:
+
+**Manouchehr Zadahmad Jafarlou**
+
+✉️ Email: zadahmad@gmail.com  
+🔗 GitHub: [github.com/zadahmad](https://github.com/zadahmad)
+
+---
 
